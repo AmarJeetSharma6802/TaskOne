@@ -815,6 +815,12 @@ cursor: pointer;
     .assignment {
         gap: 10px;
     }
+    .peoples-name {
+        padding: 6px;
+    }
+    .space-li {
+        padding: 8px;
+    }
 
 }
 @media (min-width:480px) and (max-width:600px) {
