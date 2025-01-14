@@ -812,6 +812,9 @@ cursor: pointer;
     .space {
         max-width: 95%;
     }
+    .assignment {
+        gap: 10px;
+    }
 
 }
 @media (min-width:480px) and (max-width:600px) {
